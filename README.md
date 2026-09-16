@@ -6,6 +6,7 @@ I love working on and contributing to projects around compilers, parsers, progra
 developer tooling, networks, systems, and security. I'm particularly interested in cryptography,
 compiler/language design, developer tools, networking, and systems programming.
 
-Currently building https://github.com/lambda-discipline.
+Currently building [lambda-discipline](https://github.com/lambda-discipline) and
+[java-inventory](https://github.com/nos1dot618/java-inventory).
 
 Interested in collaborating on a project? Drop me a mail at [lakshay@9th.fun](mailto:lakshay@9th.fun).
