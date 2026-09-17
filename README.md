@@ -1,6 +1,8 @@
 Hey there, I'm Lakshay Chauhan, aka **Nosferatu** / **nos1dot618**.
 
-Know more about me at https://9th.fun. You can reach me at [lakshay@9th.fun](mailto:lakshay@9th.fun).
+Know more about me at https://9th.fun.
+You can also view my [open source contributions](https://osc.9th.fun).
+You can reach me at [lakshay@9th.fun](mailto:lakshay@9th.fun).
 
 I love working on and contributing to projects around compilers, parsers, programming languages, shells,
 developer tooling, networks, systems, and security. I'm particularly interested in cryptography,
